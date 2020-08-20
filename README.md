@@ -4,6 +4,7 @@ I'm a BSc. Software Development graduate based in Ireland looking for a job. Che
 
 Here's some of my repos:
 
+- ♻️ [jfreecycle](https://github.com/pskenny/jfreecycle): freecycle.org command-line utility
 - 🎧 [Paragon Podcast](https://github.com/pskenny/paragon-podcast): UWP podcast client
 - 🔤 [regex](): simple regular expression library based on automata
 - #⃣ [md5](https://github.com/pskenny/md5) implementation
