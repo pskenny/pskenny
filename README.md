@@ -1,6 +1,6 @@
 ### Hi, I'm Paul 👋
 
-I'm a BSc. Software Development graduate based in Ireland looking for a job. Check out my [CV 📄](https://github.com/pskenny/pskenny.github.io/raw/master/assets/static/cv.pdf)
+I'm a BSc. Software Development graduate based in Ireland looking for a job. Check out my [blog](https://pskenny.github.io/blog/) or [CV 📄](https://github.com/pskenny/pskenny.github.io/raw/master/assets/static/cv.pdf)!
 
 Here's some of my repos:
 
