@@ -7,4 +7,4 @@ Here's some of my repos:
 - 🔤 [regex](https://github.com/pskenny/regex): regular expression library
 - #⃣ [md5](https://github.com/pskenny/md5): MD5 implementation
 
-💬 Contact me at [paul.s.kenny@gmail.com](mailto:paul.s.kenny@gmail.com)
+💬 Contact me at [@paul_programs](https://twitter.com/paul_programs)
