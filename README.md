@@ -6,5 +6,3 @@ Here's some of my repos:
 - 🎧 [Paragon Podcast](https://github.com/pskenny/paragon-podcast): UWP podcast client
 - 🔤 [regex](https://github.com/pskenny/regex): regular expression library
 - #⃣ [md5](https://github.com/pskenny/md5): MD5 implementation
-
-💬 Contact me at [@paul_programs](https://twitter.com/paul_programs)
